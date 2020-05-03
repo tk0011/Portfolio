@@ -548,6 +548,12 @@ to {
     margin:0;
   }
 
+  .wrap-1 .logo {
+    margin: 0;
+    padding: 4px 12px;
+    letter-spacing: 0.5px;
+  }
+
   .wrap-1 .icons i {
     padding: 0;
   }
