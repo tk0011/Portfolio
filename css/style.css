@@ -516,7 +516,7 @@ to {
      opacity: 1;
    }
 
-   .up, .down {
+   .up {
      display: none;
    }
  }
@@ -619,8 +619,9 @@ to {
 
   .wrap-5 .links a {
     margin: 0;
-    padding: 3px;
-    font-size: 22px;
+    padding: 0 3px;
+    font-size: 21px;
+    letter-spacing: 0.3px;
   }
 
   .wrap-5 .contact-footer {
@@ -639,7 +640,7 @@ to {
   margin: 5px;
 }
  .wrap-5 .icons-footer a{
-  padding: 0px 15px;
+  padding: 0 6px 0 18px;
   margin: -2px;
   font-size: 22px;
  }
